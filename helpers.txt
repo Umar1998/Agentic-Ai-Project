@@ -1,0 +1,5 @@
+# env creation first time
+conda create -p venv python=3.12
+
+# To Run the sreamlit app locally
+streamlit run app.py
